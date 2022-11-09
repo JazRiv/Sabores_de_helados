@@ -1,0 +1,17 @@
+
+.input{
+    margin: 10 px;
+}
+#boton_enviar{
+    margin-top: 20 px;
+    margin-bottom: 20 px;
+    color: aquamarine;
+    background-color: black;
+}
+#boton_ordenar{
+margin-top: 20 px;
+margin-bottom: 20 px;
+color: blueviolet;
+background-color: bisque;
+display: none;
+}
